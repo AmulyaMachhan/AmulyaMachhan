@@ -60,7 +60,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AmulyaMachhan/AmulyaMachhan/output/snake.svg" alt="Snake animation" />
-
-###
