@@ -71,8 +71,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmulyaMachhan&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=16&order=3" height="191" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmulyaMachhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="199" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AmulyaMachhan&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=16&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmulyaMachhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=AmulyaMachhan&theme=dracula&column=4&row=1&margin-w=10&margin-h=20&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmulyaMachhan&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
