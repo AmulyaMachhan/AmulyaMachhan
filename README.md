@@ -1,80 +1,74 @@
-### Hi there 👋
-<h1 align="left">"Crafting code and chasing dreams in the realm of possibilities. 🚀✨ "</h1>
+## Hi there 👋  
+<h1 align="left">Crafting code and chasing dreams in the realm of possibilities 🚀✨</h1>
 
-###
+<p align="left">
+  My name is <strong>Amulya</strong> and I’m a passionate <strong>Web Developer</strong> from Earth 🌍
+</p>
 
-<p align="left">My name is Amulya and I'm a Web Developer from Earth</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+✨ Creating bugs since 2001  
+📚 Currently learning **React & modern frontend development**  
+🎯 Goal: **Land a developer job by the end of the year**  
+🏀 Fun fact: I love playing basketball  
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2001.<br>📚 I'm currently learning React.<br>🎯 Goals: To get a job by the end of year<br>🎲 Fun fact: Love  basketball 🏀</p>
+## 🛠️ Tech Stack
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"  height="40" alt="tailwindcss logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="40" alt="redux logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="40" alt="axios logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
+</p>
 
-###
+---
 
-<h2 align="left">Here are my socials , feel free to hit me up</h2>
+## 🌐 Connect With Me
 
-###
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/amulya-machhan-5876bb261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
   <a href="https://twitter.com/2o504" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
   </a>
-  <a href="https://www.instagram.com/amulya_machhan_/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/amulya_machhan_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
   </a>
-</div>
+</p>
 
-###
+---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmulyaMachhan&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=16&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmulyaMachhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AmulyaMachhan&theme=dracula&column=4&row=1&margin-w=10&margin-h=20&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmulyaMachhan&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmulyaMachhan&theme=highcontrast&hide_border=true&border_radius=16" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmulyaMachhan&layout=compact&theme=dracula&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=AmulyaMachhan&theme=dracula&column=4&margin-w=10&margin-h=20" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmulyaMachhan&theme=github-dark&area=true&radius=16" />
+</p>
