@@ -1,4 +1,5 @@
 ## Hi there 👋  
+
 <h1 align="left">Crafting code and chasing dreams in the realm of possibilities 🚀✨</h1>
 
 <p align="left">
@@ -36,8 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
 </p>
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -51,8 +50,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
   </a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
