@@ -5,16 +5,12 @@
   My name is <strong>Amulya</strong> and I’m a passionate <strong>Web Developer</strong> from Earth 🌍
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 ✨ Creating bugs since 2001  
 📚 Currently learning **React & modern frontend development**  
 🎯 Goal: **Land a developer job by the end of the year**  
 🏀 Fun fact: I love playing basketball  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -63,10 +59,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmulyaMachhan&theme=highcontrast&hide_border=true&border_radius=16" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmulyaMachhan&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AmulyaMachhan&theme=dracula&column=4&margin-w=10&margin-h=20" height="150" />
 </p>
 
 <p align="center">
